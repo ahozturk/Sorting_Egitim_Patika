@@ -4,7 +4,9 @@ patika.dev sıralama ödevleri
 # Insertion Sort
 ## Array -> [22,27,16,2,18,6]
 S1 - [2,27,16,22,18,6]
+
 S2 - [2,6,16,22,18,27]
+
 S3 - [2,6,16,18,22,27]
 
 Big O -> O(n^2)
