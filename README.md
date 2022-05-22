@@ -1,5 +1,5 @@
 # Sorting_Egitim_Patika
-patika.dev sıralama ödevleri
+patika.dev sıralama (Insertion - Merge - Binary) ödevleri
 
 # Insertion Sort
 ## Array -> [22,27,16,2,18,6]
